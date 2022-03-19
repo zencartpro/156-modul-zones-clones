@@ -1,0 +1,16 @@
+Mehrere Versand-nach-Zonen-Module
+
+Für die deutsche Zen Cart Version 1.5.6
+2019 mh254 (dev.vcp-forum-shop.de)
+
+General Public License
+
+Mit dieser Erweiterung können via Shopadministration weitere Versandkosten nach Zonen Module für verschiedene Versanddienstleister verwendet werden.
+
+Installation:
+
+1)
+Den Inhalt des Ordners NEUE DATEIEN in der vorgegebenen Struktur hochladen, es werden dabei keine bestehenden Dateien überschrieben.
+
+2)
+Im Administrations-Bereich die neuen Versandmodule aktivieren und konfigurieren
